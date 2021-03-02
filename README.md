@@ -1,4 +1,4 @@
-I´m still learning how to set this page.
+I am still learning how to set this page.
 
 ## Projects
 [visualizacao_dados](https://github.com/abreukuse/visualizacao_dados)<br>
